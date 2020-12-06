@@ -21,7 +21,8 @@
  * In order to play online Videos added "url_launcher" to play online using vodeos_players lib.
  
  * I have added an stack in online play which will automatically play the next audio.
- 
+ ![git repository](./images/8.JPG)
+ ![git repository](./images/9.JPG)
  
 ## Task 3 & 4 : Flutter App Development 
  
