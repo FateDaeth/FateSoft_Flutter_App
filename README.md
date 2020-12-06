@@ -2,12 +2,17 @@
 
 ## THIS IS A SAMPLE PROJECT TO UNDERSTAND THE INTEGRATION OF VARIOUS TECHNOLOGIES AND FUNCTIONALITIES OF FLUTTER APPLICATION.
 
+
+ ![git repository](./images/1.jpg)
+ 
+ ![git repository](./images/2.jpg)
+
 ## Task 1 : Flutter App Development
  
  * Task was to create a UI for Audio and Video Player .
  
- ![git repository](./images/ENT.jpg)
  
+ ![git repository](./images/ent.jpg)
  
  * I have used audioplayers and videos_player lib from pub.dev
  
@@ -20,7 +25,7 @@
  
 ## Task 3 & 4 : Flutter App Development 
  
-  ![git bash](./images/1.png)
+  ![git bash](./images/li.jpg)
   
 * Created an app that can run any linux command using API
 * Output will be saved in Firestore. 
@@ -32,5 +37,5 @@
  
  * created amazing and unique animation in the application which stacks the container in delayed.
  
-![webhooks](./images/07.png)
+![webhooks](./images/ani.jpg)
 
