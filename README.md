@@ -3,16 +3,16 @@
 ## THIS IS A SAMPLE PROJECT TO UNDERSTAND THE INTEGRATION OF VARIOUS TECHNOLOGIES AND FUNCTIONALITIES OF FLUTTER APPLICATION.
 
 
- ![git repository](./images/1.jpg)
+ ![git repository](./images/1.JPG)
  
- ![git repository](./images/2.jpg)
+ ![git repository](./images/2.JPG)
 
 ## Task 1 : Flutter App Development
  
  * Task was to create a UI for Audio and Video Player .
  
  
- ![git repository](./images/ent.jpg)
+ ![git repository](./images/auvi.JPG)
  
  * I have used audioplayers and videos_player lib from pub.dev
  
@@ -22,7 +22,7 @@
  
  * I have added an stack in online play which will automatically play the next audio.
  ![git repository](./images/8.JPG)
- ![git repository](./images/9.JPG)
+ ![git repository](./images/vid.JPG)
  
 ## Task 3 & 4 : Flutter App Development 
  
