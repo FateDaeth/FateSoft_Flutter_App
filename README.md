@@ -26,7 +26,7 @@
  
 ## Task 3 & 4 : Flutter App Development 
  
-  ![git bash](./images/li.jpg)
+  ![git bash](./images/li.JPG)
   
 * Created an app that can run any linux command using API
 * Output will be saved in Firestore. 
@@ -38,5 +38,5 @@
  
  * created amazing and unique animation in the application which stacks the container in delayed.
  
-![webhooks](./images/ani.jpg)
+![webhooks](./images/ani.JPG)
 
